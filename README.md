@@ -19,3 +19,8 @@ https://blog.csdn.net/wenlelin/article/details/83109449
      
 leetcode 03  哈希 返回最长无重复子串的长度
 https://blog.csdn.net/wenlelin/article/details/83189188
+
+
+
+leetcode 07 09 字符串处理大数回文数
+https://blog.csdn.net/wenlelin/article/details/83386000
