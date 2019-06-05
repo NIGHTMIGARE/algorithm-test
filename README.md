@@ -1,26 +1,3 @@
 # algorithm-test
 练习数据结构
-leetcode 01 哈希表查询 语言javascript
-https://blog.csdn.net/wenlelin/article/details/83062975
-
-
-
-
-
-
-
-
-leetcode 02 链表 大数相加
-https://blog.csdn.net/wenlelin/article/details/83109449
-     
-     
-     
-     
-     
-leetcode 03  哈希 返回最长无重复子串的长度
-https://blog.csdn.net/wenlelin/article/details/83189188
-
-
-
-leetcode 07 09 字符串处理大数回文数
-https://blog.csdn.net/wenlelin/article/details/83386000
+已会算法 哈希表 动态规划 回文串 双指针
